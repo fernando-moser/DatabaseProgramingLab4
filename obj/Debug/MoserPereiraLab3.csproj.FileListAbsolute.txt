@@ -1,0 +1,11 @@
+C:\Users\ferna\OneDrive\0-CollegeData\Term3\DatabaseProgramming\C#\MoserPereiraLab3\bin\Debug\MoserPereiraLab3.exe.config
+C:\Users\ferna\OneDrive\0-CollegeData\Term3\DatabaseProgramming\C#\MoserPereiraLab3\bin\Debug\MoserPereiraLab3.exe
+C:\Users\ferna\OneDrive\0-CollegeData\Term3\DatabaseProgramming\C#\MoserPereiraLab3\bin\Debug\MoserPereiraLab3.pdb
+C:\Users\ferna\OneDrive\0-CollegeData\Term3\DatabaseProgramming\C#\MoserPereiraLab3\obj\Debug\MoserPereiraLab3.csprojAssemblyReference.cache
+C:\Users\ferna\OneDrive\0-CollegeData\Term3\DatabaseProgramming\C#\MoserPereiraLab3\obj\Debug\MoserPereiraLab3.Books.resources
+C:\Users\ferna\OneDrive\0-CollegeData\Term3\DatabaseProgramming\C#\MoserPereiraLab3\obj\Debug\MoserPereiraLab3.Properties.Resources.resources
+C:\Users\ferna\OneDrive\0-CollegeData\Term3\DatabaseProgramming\C#\MoserPereiraLab3\obj\Debug\MoserPereiraLab3.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\0-CollegeData\Term3\DatabaseProgramming\C#\MoserPereiraLab3\obj\Debug\MoserPereiraLab3.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\0-CollegeData\Term3\DatabaseProgramming\C#\MoserPereiraLab3\obj\Debug\MoserPereiraLab3.exe
+C:\Users\ferna\OneDrive\0-CollegeData\Term3\DatabaseProgramming\C#\MoserPereiraLab3\obj\Debug\MoserPereiraLab3.pdb
+C:\Users\ferna\OneDrive\0-CollegeData\Term3\DatabaseProgramming\C#\MoserPereiraLab3\obj\Debug\MoserPereiraLab3.Main.resources
